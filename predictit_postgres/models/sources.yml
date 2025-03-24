@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+    - name: predictit
+      schema: public
+      tables:
+        - name: predictit_data_raw
+          identifier: predictit_data_raw 

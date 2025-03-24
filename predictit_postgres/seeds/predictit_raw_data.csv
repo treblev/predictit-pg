@@ -1,0 +1,103 @@
+market_id,market_name,contract_id,contract_name,short_name,status,last_trade_price,best_buy_yes_price,best_buy_no_price,best_sell_yes_price,best_sell_no_price,last_close_price,display_order,timestamp
+8095,Who will win the Democratic nomination for Mayor of New York?,31464,31464,Cuomo,Open,0.68,0.69,0.32,0.68,0.31,0.68,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31460,31460,Mamdani,Open,0.12,0.13,0.88,0.12,0.87,0.12,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31458,31458,Lander,Open,0.07,0.07,0.94,0.06,0.93,0.05,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31459,31459,E. Adams,Open,0.06,0.07,0.94,0.06,0.93,0.06,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31461,31461,Myrie,Open,0.05,0.05,0.96,0.04,0.95,0.05,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31462,31462,Stringer,Open,0.03,0.04,0.97,0.03,0.96,0.03,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31463,31463,Ramos,Open,0.01,0.02,0.99,0.01,0.98,0.01,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31465,31465,James,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31466,31466,Williams,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31743,31743,Tilson,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31788,31788,A. Adams,Open,0.01,0.02,0.99,0.01,0.98,0.01,0,2025-03-24 10:38:08.218590
+8095,Who will win the Democratic nomination for Mayor of New York?,31789,31789,Blake,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8099,Which party will win the 2025 gubernatorial election in Virginia?,31488,31488,Democratic,Open,0.81,0.82,0.19,0.81,0.18,0.83,0,2025-03-24 10:38:08.218590
+8099,Which party will win the 2025 gubernatorial election in Virginia?,31487,31487,Republican,Open,0.17,0.18,0.83,0.17,0.82,0.17,0,2025-03-24 10:38:08.218590
+8100,Will Congress confirm a Supreme Court justice in 2025?,31489,31489,SCOTUS justice confirmed in 2025?,Open,0.28,0.28,0.73,0.27,0.72,0.27,0,2025-03-24 10:38:08.218590
+8118,Who will win the Spring 2025 Wisconsin Supreme Court election?,31657,31657,Crawford,Open,0.79,0.8,0.21,0.79,0.2,0.8,0,2025-03-24 10:38:08.218590
+8118,Who will win the Spring 2025 Wisconsin Supreme Court election?,31658,31658,Schimel,Open,0.24,0.24,0.77,0.23,0.76,0.23,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31689,31689,67 or fewer,Open,0.83,0.83,0.18,0.82,0.17,0.83,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31695,31695,68 to 70,Open,0.12,0.13,0.88,0.12,0.87,0.12,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31696,31696,71 to 73,Open,0.06,0.07,0.94,0.06,0.93,0.06,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31697,31697,74 to 76,Open,0.01,0.02,0.99,0.01,0.98,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31698,31698,77 to 79,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31690,31690,80 to 82,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31693,31693,83 to 85,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31691,31691,86 to 88,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31692,31692,89 to 91,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8122,How many votes to confirm Elise Stefanik as UN Ambassador by April 30?,31694,31694,92 or more,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31702,31702,Sherrill,Open,0.73,0.73,0.28,0.72,0.27,0.73,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31700,31700,Fulop,Open,0.08,0.09,0.92,0.08,0.91,0.08,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31701,31701,Gottheimer,Open,0.06,0.07,0.94,0.06,0.93,0.06,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31699,31699,Baraka,Open,0.05,0.06,0.96,0.04,0.94,0.05,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31704,31704,Sweeney,Open,0.03,0.05,0.97,0.03,0.95,0.03,0,2025-03-24 10:38:08.218590
+8123,Who will win the 2025 New Jersey Democratic gubernatorial nomination?,31703,31703,Spiller,Open,0.02,0.04,0.98,0.02,0.96,0.02,0,2025-03-24 10:38:08.218590
+8128,Will Eric Adams leave the office of Mayor of New York before April 1?,31744,31744,Adams out as NYC Mayor?,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31745,31745,48 or fewer,Open,0.87,0.88,0.13,0.87,0.12,0.86,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31753,31753,49,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31752,31752,50,Open,0.04,0.06,0.96,0.04,0.94,0.05,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31746,31746,51,Open,0.03,0.07,0.98,0.02,0.93,0.04,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31747,31747,52,Open,0.03,0.06,0.97,0.03,0.94,0.05,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31748,31748,53,Open,0.02,0.04,0.99,0.01,0.96,0.03,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31749,31749,54,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31750,31750,55,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8129,How many Yea votes in the Senate by May 16 to pass a reconciliation bill?,31751,31751,56 or more,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8130,Who will win the 2025 Oakland mayoral special election?,31756,31756,Lee,Open,0.81,0.81,0.2,0.8,0.19,0.81,0,2025-03-24 10:38:08.218590
+8130,Who will win the 2025 Oakland mayoral special election?,31757,31757,Taylor,Open,0.16,0.17,0.84,0.16,0.83,0.16,0,2025-03-24 10:38:08.218590
+8130,Who will win the 2025 Oakland mayoral special election?,31754,31754,Grappo,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8130,Who will win the 2025 Oakland mayoral special election?,31755,31755,Jordan,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8130,Who will win the 2025 Oakland mayoral special election?,31758,31758,Swaney,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31759,31759,214 or fewer,Open,0.84,0.84,0.17,0.83,0.16,0.84,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31760,31760,215,Open,0.05,0.06,0.95,0.05,0.94,0.05,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31761,31761,216,Open,0.06,0.06,0.95,0.05,0.94,0.06,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31762,31762,217,Open,0.05,0.07,0.95,0.05,0.93,0.05,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31763,31763,218,Open,0.03,0.04,0.97,0.03,0.96,0.03,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31764,31764,219,Open,0.02,0.02,,,0.98,0.01,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31765,31765,220,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31767,31767,221,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8131,How many Yea votes in the House by May 16 to pass reconciliation?,31766,31766,222 or more,Open,0.01,0.01,,,0.99,0.01,0,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31793,31793,1 vote,Open,0.67,0.67,0.36,0.64,0.33,0.64,0,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31792,31792,2 votes,Open,0.18,0.19,0.84,0.16,0.81,0.18,1,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31795,31795,3 votes,Open,0.07,0.06,0.96,0.04,0.94,0.07,2,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31796,31796,4 votes,Open,0.05,0.05,0.97,0.03,0.95,0.05,3,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31797,31797,5 votes,Open,0.01,0.02,0.99,0.01,0.98,0.01,4,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31791,31791,6 votes,Open,0.01,0.01,,,0.99,0.01,5,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31794,31794,7 votes,Open,0.01,0.01,,,0.99,0.01,6,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31790,31790,8 votes,Open,0.01,0.01,,,0.99,0.01,7,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31798,31798,9 votes,Open,0.01,0.01,,,0.99,0.01,8,2025-03-24 10:38:08.218590
+8134,How many tie-breaking Senate votes will JD Vance cast by June 30?,31799,31799,10 or more votes,Open,0.01,0.01,,,0.99,0.01,9,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31802,31802,Hegseth,Open,0.14,0.14,0.89,0.11,0.86,0.13,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31800,31800,Rubio,Open,0.13,0.13,0.88,0.12,0.87,0.14,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31814,31814,Lutnick,Open,0.11,0.11,0.9,0.1,0.89,0.1,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31801,31801,Bessent,Open,0.05,0.05,0.97,0.03,0.95,0.04,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31806,31806,RFK Jr.,Open,0.05,0.05,0.96,0.04,0.95,0.04,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31808,31808,Duffy,Open,0.05,0.05,0.96,0.04,0.95,0.04,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31811,31811,Gabbard,Open,0.05,0.05,0.96,0.04,0.95,0.04,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31810,31810,Noem,Open,0.04,0.05,0.97,0.03,0.95,0.04,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31803,31803,Burgum,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31804,31804,Rollins,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31805,31805,Zeldin,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31807,31807,Turner,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31809,31809,Collins,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31812,31812,Vought,Open,0.02,0.03,0.98,0.02,0.97,0.01,0,2025-03-24 10:38:08.218590
+8135,Who will be the first Cabinet member to leave in 2025?,31813,31813,Wright,Open,0.02,0.03,0.98,0.02,0.97,0.02,0,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31815,31815,$1.5T or fewer,Open,0.06,0.07,0.94,0.06,0.93,0.06,0,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31817,31817,$1.5T to $2T,Open,0.05,0.06,0.95,0.05,0.94,0.05,1,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31816,31816,$2T to $2.5T,Open,0.07,0.07,0.94,0.06,0.93,0.07,2,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31818,31818,$2.5T to $3T,Open,0.16,0.17,0.84,0.16,0.83,0.15,3,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31819,31819,$3T to $3.5T,Open,0.13,0.13,0.88,0.12,0.87,0.12,4,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31820,31820,$3.5T to $4T,Open,0.08,0.1,0.91,0.09,0.9,0.08,5,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31821,31821,$4T to $4.5T,Open,0.11,0.12,0.89,0.11,0.88,0.11,6,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31822,31822,$4.5T to $5T,Open,0.08,0.09,0.92,0.08,0.91,0.08,7,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31823,31823,$5T to $5.5T,Open,0.08,0.07,0.94,0.06,0.93,0.08,8,2025-03-24 10:38:08.218590
+8136,How much will the 2025 reconciliation bill increase the deficit?,31824,31824,$5.5T or more,Open,0.23,0.23,0.78,0.22,0.77,0.26,9,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31825,31825,Under 13%,Open,0.08,0.08,0.93,0.07,0.92,0.07,0,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31831,31831,13% to 16%,Open,0.07,0.07,0.95,0.05,0.93,0.07,1,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31827,31827,16% to 19%,Open,0.09,0.09,0.94,0.06,0.91,0.06,2,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31832,31832,19% to 22%,Open,0.1,0.1,0.92,0.08,0.9,0.06,3,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31826,31826,22% to 25%,Open,0.09,0.1,0.92,0.08,0.9,0.11,4,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31828,31828,25% to 28%,Open,0.11,0.12,0.9,0.1,0.88,0.13,5,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31834,31834,28% to 31%,Open,0.16,0.16,0.87,0.13,0.84,0.13,6,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31833,31833,31% to 34%,Open,0.13,0.14,0.9,0.1,0.86,0.1,7,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31829,31829,34% to 37%,Open,0.06,0.06,0.95,0.05,0.94,0.04,8,2025-03-24 10:38:08.218590
+8137,What will be the margin in the FL-01 House special election?,31830,31830,37% or more,Open,0.05,0.05,0.96,0.04,0.95,0.05,9,2025-03-24 10:38:08.218590
