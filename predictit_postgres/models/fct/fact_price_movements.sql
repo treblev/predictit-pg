@@ -5,10 +5,10 @@ WITH price_trends AS (
         market_id,
         contract_id,
         last_trade_price,
-        timestamp ,
-        LAG(last_trade_price) OVER (PARTITION BY contract_id ORDER BY timestamp) AS prev_price,
-        TO_CHAR(timestamp, 'YYYYMMDD')::int AS date_id
-    FROM {{ ref('src_market') }}
+        updated_at,
+        LAG(last_trade_price) OVER (PARTITION BY contract_id ORDER BY updated_at) AS prev_price,
+        TO_CHAR(updated_at, 'YYYYMMDD')::int AS date_id
+    FROM {{ ref('stg_predictit_raw') }}
 )
 SELECT
     market_id,
