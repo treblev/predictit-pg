@@ -4,4 +4,4 @@ SELECT DISTINCT
     contract_id,
     contract_name,
     market_id
-FROM {{ ref('src_market') }}
+FROM {{ ref('stg_predictit_raw') }}

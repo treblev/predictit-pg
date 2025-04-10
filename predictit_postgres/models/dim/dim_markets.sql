@@ -3,4 +3,4 @@
 SELECT DISTINCT
     market_id,
     market_name
-FROM {{ ref('src_market') }} 
+FROM {{ ref('stg_predictit_raw') }} 

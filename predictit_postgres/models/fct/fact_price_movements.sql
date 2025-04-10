@@ -6,7 +6,7 @@ WITH price_trends AS (
         contract_id,
         last_trade_price,
         timestamp ,
-        LAG(last_trade_price) OVER (PARTITION BY contract_id ORDER BY updated_at) AS prev_price,
+        LAG(last_trade_price) OVER (PARTITION BY contract_id ORDER BY timestamp) AS prev_price,
         TO_CHAR(timestamp, 'YYYYMMDD')::int AS date_id
     FROM {{ ref('src_market') }}
 )
