@@ -4,8 +4,8 @@ models:
     - name: prices
       description: "A dimension table containing the prices of each contract at each timestamp."
       columns:
-        - name: contract_id
-          description: "The unique identifier for the contract."
+        - name: contract_name
+          description: "The event being tracked."          
           tests:
             - not_null       
         - name: market_name      
