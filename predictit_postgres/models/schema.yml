@@ -19,10 +19,14 @@ models:
             - relationships:
                 to: ref('dim_markets')
                 field: market_id
-        - name: price_change
-          description: "The change in price."
-        - name: price_change_percent
+        - name: total_price_change
+          description: "The total change in price."
+        - name: avg_price_change_percent
           description: "The change in price denoted as percentage."
+        - name: record_count 
+          description: "The number of records in the table."
+        - name: date_id
+          description: "Unique ID for date." 
     - name: dim_markets
       description: "A dimension table containing the markets."
       columns:
