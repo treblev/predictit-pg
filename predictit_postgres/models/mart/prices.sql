@@ -11,7 +11,7 @@ contracts as (
 SELECT
     f.market_id,
     m.market_name,
-    c.contract_name,
+    c.short_name AS contract_name,
     f.date_id,
     f.last_trade_price,
     f.prev_price,
@@ -21,5 +21,5 @@ SELECT
 FROM facts f
 JOIN markets m ON f.market_id = m.market_id
 JOIN contracts c ON f.contract_id = c.contract_id
-GROUP BY f.market_id, m.market_name, c.contract_name, f.date_id, f.last_trade_price, f.prev_price
+GROUP BY f.market_id, m.market_name, c.short_name, f.date_id, f.last_trade_price, f.prev_price
 ORDER BY f.market_id, m.market_name, f.date_id
