@@ -38,4 +38,18 @@ models:
           description: "The event being tracked."
           tests:
             - not_null
+    - name: fact_volume_traded
+      columns:
+        - name: market_id
+          tests:
+            - not_null
+            - relationships:
+                to: ref('dim_markets')
+                field: market_id 
+        - name: contract_id
+          tests: 
+            - relationships:
+                to: ref('dim_contracts')
+                field: contract_id
+                
         
